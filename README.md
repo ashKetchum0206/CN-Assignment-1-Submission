@@ -1,10 +1,10 @@
 Information of the team members
 
 Name: Rachit Verma
-Roll Number: 21110171
+ Roll Number: 21110171
 
 Name: Srujan Kumar Shetty 
-Roll Number: 21110214
+ Roll Number: 21110214
 
 Reference Links:
 
